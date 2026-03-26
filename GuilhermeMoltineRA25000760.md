@@ -2,8 +2,8 @@
 
 ## Identificação
 
-- **Aluno:** Guilherme  
-- **RA:** 2500
+- **Aluno:** Guilherme Moltine Canhedo Soares 
+- **RA:** 25000760
 
 ---
 
@@ -179,6 +179,13 @@ Fim
 
 8. Diagrama de Atividade — Gerar Relatórios
 <img width="215" height="312" alt="image" src="https://github.com/user-attachments/assets/603589e9-e1db-4a78-9279-0f32b3a7606c" />
+
+9. Diagrama de Atividade — Realizar Login
+<img width="283" height="312" alt="image" src="https://github.com/user-attachments/assets/40b58137-76f1-4bbd-961a-9bc3c6d16735" />
+
+10. Diagrama de Atividade — Consultar Produto
+<img width="419" height="312" alt="image" src="https://github.com/user-attachments/assets/2a767863-7c6c-4c49-8b73-f801303faeac" />
+
 
 
 
