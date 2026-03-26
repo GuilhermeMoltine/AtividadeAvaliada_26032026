@@ -2,8 +2,8 @@
 
 ## Identificação
 
-- **Aluno:** Guilherme Moltine Canhedo Soares 
-- **RA:** 25000760 
+- **Aluno:** Guilherme  
+- **RA:** 2500
 
 ---
 
@@ -12,6 +12,30 @@
 Este documento apresenta a modelagem do Sistema Integrado de Gestão de Farmácia “Saúde & Vida”, incluindo regras de negócio, requisitos, casos de uso e diagramas.
 
 ---
+
+## MVP 
+
+O MVP do sistema Saúde & Vida tem como objetivo entregar as funcionalidades essenciais para o funcionamento básico da farmácia, permitindo validar o sistema com o menor esforço inicial.
+
+### Funcionalidades do MVP
+
+- Cadastro de produtos  
+- Consulta de produtos  
+- Registro de vendas  
+- Validação de estoque  
+- Atualização automática de estoque  
+- Emissão de comprovante de venda  
+
+### Funcionalidades NÃO incluídas no MVP
+
+- Relatórios avançados  
+- Controle financeiro completo (contas a pagar/receber)  
+- Integração entre unidades  
+- Controle de permissões avançadas  
+
+### Objetivo do MVP
+
+Permitir que a farmácia opere com controle básico de vendas e estoque, reduzindo erros manuais e validando a eficiência do sistema antes de evoluções futuras.
 
 ## Regras de Negócio
 ### RN01 – Controle de Estoque
