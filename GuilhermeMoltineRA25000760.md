@@ -7,6 +7,12 @@
 
 ---
 
+## Descrição
+
+Este documento apresenta a modelagem do Sistema Integrado de Gestão de Farmácia “Saúde & Vida”, incluindo regras de negócio, requisitos, casos de uso e diagramas.
+
+---
+
 ## Regras de Negócio
 ### RN01 – Controle de Estoque
 Um produto não pode ser vendido se não houver quantidade suficiente em estoque.
