@@ -115,3 +115,33 @@ Atualizar estoque
 Emitir comprovante
 Fim
 
+## Diagrama de Caso de Uso
+
+1. Diagrama de Casos de Uso
+<img width="449" height="1109" alt="image" src="https://github.com/user-attachments/assets/4ce7c6e9-f6da-4052-9b40-6fc941db752d" />
+
+2. Diagrama de Atividade — Registrar Venda
+<img width="531" height="651" alt="image" src="https://github.com/user-attachments/assets/2b5a6e76-688b-43fd-b2b5-55234b3123bd" />
+
+3. Diagrama de Atividade — Venda a Prazo
+<img width="295" height="477" alt="image" src="https://github.com/user-attachments/assets/37399376-3edf-43a2-8b92-a451706c0369" />
+
+4. Diagrama de Atividade — Registrar Compra
+<img width="163" height="523" alt="image" src="https://github.com/user-attachments/assets/77a6126f-6373-4ec4-b28d-0882a61d2137" />
+
+5. Diagrama de Atividade — Contas a Receber
+<img width="317" height="405" alt="image" src="https://github.com/user-attachments/assets/6ac33ee5-ed5f-4642-895f-c3c0cfa3e395" />
+
+6. Diagrama de Atividade — Contas a Pagar
+<img width="209" height="434" alt="image" src="https://github.com/user-attachments/assets/81496ad8-0638-42cd-a85f-397cc6bbe7b9" />
+
+7. Diagrama de Atividade — Cadastro de Cliente
+<img width="224" height="312" alt="image" src="https://github.com/user-attachments/assets/97ebf0b4-3806-4469-b565-99349020db4e" />
+
+8. Diagrama de Atividade — Gerar Relatórios
+<img width="215" height="312" alt="image" src="https://github.com/user-attachments/assets/603589e9-e1db-4a78-9279-0f32b3a7606c" />
+
+
+
+
+
