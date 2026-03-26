@@ -1,3 +1,12 @@
+# Sistema Integrado de Gestão de Farmácia – Saúde & Vida
+
+## Identificação
+
+- **Aluno:** Guilherme Moltine Canhedo Soares 
+- **RA:** 25000760 
+
+---
+
 ## Regras de Negócio
 ### RN01 – Controle de Estoque
 Um produto não pode ser vendido se não houver quantidade suficiente em estoque.
